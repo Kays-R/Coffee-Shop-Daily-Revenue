@@ -10,4 +10,6 @@ The variables contain operational details they include:
 1. Number of Customers per day
 * Total number of customers visiting the shop on any random day
 * Range: 50-500 customers
-2. 
+2. Average Order Value ($)
+* 
+3. 
