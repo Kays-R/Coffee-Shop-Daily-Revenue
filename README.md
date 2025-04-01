@@ -13,4 +13,4 @@ The variables contain operational details they include:
 2. Average Order Value ($)
 * The average amount spent by each customer during their visit (in dollars)
 3. Operating Hours per day
-* Total number of hours the coffee shop is open each day
+* Total number of hours the coffee shop is open each day for business
