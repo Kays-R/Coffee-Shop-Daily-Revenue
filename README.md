@@ -1,5 +1,5 @@
 # Coffee-Shop-Daily-Revenue
-A Machine Learning project done for personal practice  
+A Machine Learning project done for personal practice, Goal of the project is to practice the use of Linear regression model to create a prediction model over 75% accuracy (will try for higher with minimum goal being 75% accuracy)
 
 **Dataset Summary**  
 The Dataset contains 2000 records of data from coffee shops, for obtaining detailed understanding into factors that influence the daily revenue. Variables include key operational and enviromental variables that provide a comprehensive view of how business activities and external conditions affect sales performance.  
