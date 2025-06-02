@@ -21,13 +21,13 @@ The Dataset contains 2000 records of data from coffee shops, for obtaining detai
 **Variable Information:**  
 The variables contain operational details they include:  
 
-1. Number of Customers per day
+1. Number of Customers per day:
 * Total number of customers visiting the shop on any random day
 * Range: 50-500 customers
-2. Average Order Value ($)
+2. Average Order Value ($):
 * The average amount spent by each customer during their visit (in dollars)
 * Range: 2.5-10
-3. Operating Hours per day
+3. Operating Hours per day:
 * Total number of hours the coffee shop is open each day for business
 * Range: 6-17
 4. Number of Employees
