@@ -36,6 +36,9 @@ The variables contain operational details they include:
 5. Marketing spend per day
 * Amount of money spent on marketing campaigins or promotions on any given day.
 * Range: 10.1-500
+6. Location Foot Traffic
+* The number of people passing by the coffee shop per hour. (Potential to attract customers)
+* Range: 50-999
 
 
 
