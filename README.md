@@ -33,6 +33,9 @@ The variables contain operational details they include:
 4. Number of Employees
 * Number of employees working on any given day. (Can influence service speed, customer satisfaction and sales)
 * Range: 2-14
+5. Marketing spend per day
+* Amount of money spent on marketing campaigins or promotions on any given day.
+* Range: 10.1-500
 
 
 
