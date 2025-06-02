@@ -30,6 +30,9 @@ The variables contain operational details they include:
 3. Operating Hours per day
 * Total number of hours the coffee shop is open each day for business
 * Range: 6-17
+4. Number of Employees
+* Number of employees working on any given day. (Can influence service speed, customer satisfaction and sales)
+* Range: 2-14
 
 
 
