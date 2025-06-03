@@ -48,3 +48,4 @@ The variables contain operational details they include:
 2. Exploratory Data Analysis
 3. Visualisation
 4. Model Training
+5. Model Testing
