@@ -44,3 +44,6 @@ The variables contain operational details they include:
 * Range: -59-5.11k
 
 ### Project Flow:
+1. Importing Libraries, dataset
+2. Exploratory Data Analysis
+3. 
