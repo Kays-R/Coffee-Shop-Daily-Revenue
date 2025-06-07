@@ -2,7 +2,7 @@
 A Machine Learning project done for personal practice, Goal of the project is to practice the use of Linear regression model to create a prediction model over 75% accuracy (will try for higher with minimum goal being 75% accuracy)
 
 ### Linear Regression:
-**Definition:**  
+**Definition:**
 - Linear regression is a statistical method.
 - It is used to model the relationship between a dependent variable and one or more independent variables using a linear equation.
 - It aims to predict the value of the dependent variable based on the independent variables.
