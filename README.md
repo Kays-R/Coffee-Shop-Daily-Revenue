@@ -5,7 +5,7 @@ A Machine Learning project done for personal practice, Goal of the project is to
 **Definition:**  
 - Linear regression is a statistical method.
 - It is used to model the relationship between a dependent variable and one or more independent variables using a linear equation.
-- It aims to predict the value of the dependent variable based on the independent variables
+- It aims to predict the value of the dependent variable based on the independent variables.
 
 **How does it work:**  
 It finds the best-fitting straight line that minimizes the error between actual data points and predicted values, usually using the least squares method.
