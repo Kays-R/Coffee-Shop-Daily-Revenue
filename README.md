@@ -1,4 +1,4 @@
-# Coffee-Shop-Daily-Revenue
+# Coffee-Shop-Daily-Revenue:
 A Machine Learning project done for personal practice, Goal of the project is to practice the use of Linear regression model to create a prediction model over 75% accuracy (will try for higher with minimum goal being 75% accuracy)
 
 ### Linear Regression:
