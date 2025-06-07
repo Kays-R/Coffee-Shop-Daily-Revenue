@@ -49,5 +49,6 @@ The variables contain operational details they include:
 1. Importing Libraries, dataset
 2. Exploratory Data Analysis
 3. Visualisation
-4. Model Training
-5. Model Testing
+4. Splitting data
+5. Model Training
+6. Model Testing
