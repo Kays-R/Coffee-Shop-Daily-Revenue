@@ -46,11 +46,4 @@ The variables contain operational details they include:
 * Range: -59-5.11k
 
 ### Project Flow:
-1. Importing Libraries, dataset
-2. Exploratory Data Analysis
-3. Visualisation
-4. Splitting data
-5. Model Training
-6. Model Testing
-
 ![image](https://github.com/user-attachments/assets/82815ca4-a0c4-4c26-ba3a-2c1a30b941d3)
