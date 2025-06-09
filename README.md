@@ -1,5 +1,5 @@
 # Coffee-Shop-Daily-Revenue:
-A Machine Learning project done for personal practice, Goal of the project is to practice the use of Linear regression model to create a prediction model with a r2 score of atleast 0.75 or above.
+A Machine Learning project done for personal practice, Goal of the project is to practice the use of Linear regression model to create a prediction model with a r2 score of atleast 0.75 or above. (Model scored 0.8645)
 
 ### Linear Regression:
 **Definition:**
